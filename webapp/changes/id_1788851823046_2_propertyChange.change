@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1788851823046_2_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.financemis.financemis",
+    "packageName": "",
+    "content": {
+        "property": "fitContent",
+        "newValue": true
+    },
+    "selector": {
+        "id": "com.financemis.financemis::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_SALES_DETAILSSet--page",
+        "idIsLocal": false,
+        "type": "sap.f.DynamicPage"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.financemis.financemis/changes/",
+    "projectId": "",
+    "creation": 1788851823046,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.120.39",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
