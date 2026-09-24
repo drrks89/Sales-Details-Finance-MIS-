@@ -21,7 +21,7 @@ builder:
           name: ZFINANCEMIS
           description: Sales Report
           package: ZSD
-          transport: SNDK919658
+          transport: SNDK919939
         exclude:
           - /test/
           - /localService/

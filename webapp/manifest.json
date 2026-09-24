@@ -70,6 +70,7 @@
                 "sap.ushell": {},
                 "sap.f": {},
                 "sap.ui.comp": {},
+                "sap.ui.export": {},
                 "sap.ui.generic.app": {},
                 "sap.suite.ui.generic.template": {}
             }
@@ -144,7 +145,6 @@
                         "condensedTableLayout": true,
                         "smartVariantManagement": true,
                         "enableTableFilterInPageVariant": true,
-                       
                         "filterSettings": {
                             "dateSettings": {
                                 "useDateRange": true
@@ -153,12 +153,9 @@
                         "tableSettings": {
                             "type": "AnalyticalTable",
                             "multiSelect": true
-                            
                         }
-                       
                     }
                 }
-                
             }
         }
     },
